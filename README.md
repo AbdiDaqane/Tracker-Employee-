@@ -38,3 +38,4 @@ manager_id: INT to hold reference to another employee that is the manager of the
 ![badge](https://img.shields.io/badge/license-MIT-important)
 
 # Link
+https://drive.google.com/file/d/1XIjEOaQPQNwxCNMmwqaVOtejpOWvA0sF/view?usp=share_link
